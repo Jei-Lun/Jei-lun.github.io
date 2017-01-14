@@ -19,3 +19,5 @@ github_username:  Jei-Lun
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
